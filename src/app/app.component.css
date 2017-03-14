@@ -11,10 +11,16 @@
   text-align: center;
 }
 #searchBtn {
-  background-color: #fff;
   border: none;
+  font-size: 20px;
+  background-color: #fff;
   border-bottom: 1px solid #000;
   border-right: 1px solid #000;
+  outline:none;
+}
+#inputvalue {
+  height: 20px;
+  outline:none;
 }
 .areaTabText {
   margin: 0 auto;
