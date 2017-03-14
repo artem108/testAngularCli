@@ -58,7 +58,6 @@ function btnEvent () {
       titleSpace.innerHTML = tab3.title;
       tabSpace.innerHTML = tab3.content;
     });
-
 };
   btnEvent();
 
